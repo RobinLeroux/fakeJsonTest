@@ -171,7 +171,7 @@
 			"promotion": "Mètre de bières : 12 bières pour 10€",
 			"facebookLink": "https://www.facebook.com/Cercle-Chig%C3%A9%C2%B2phy-1657533587802476/",
 			"address": "Dans le quadri",
-			"phoneNumber": ""
+			"phoneNumber": null
 		},
 		{
 			"id": 4,
@@ -230,7 +230,7 @@
 			"promotion": "Mètre de Chartreuse",
 			"facebookLink": "https://www.facebook.com/Le-Laboratoire-802978413107702/",
 			"address": "Rue de Bruxelles 62, Namur",
-			"phoneNumber": ""
+			"phoneNumber": null
 		},
 		{
 			"id": 5,
@@ -297,10 +297,10 @@
 			"type": "Régionale",
 			"description": "Régionale qui regroupe les étudiants de la province. Organise les baptêmes",
 			"menu": [],
-			"promotion": "",
+			"promotion": null,
 			"facebookLink": "https://www.facebook.com/Namuroise-de-Namur-1038138899538810/",
-			"address": "",
-			"phoneNumber": ""
+			"address": null,
+			"phoneNumber": null
 		}
 	],
 	"organizersName": [
