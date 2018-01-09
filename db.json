@@ -296,7 +296,7 @@
 			"name": "Régionale Namuroise",
 			"type": "Régionale",
 			"description": "Régionale qui regroupe les étudiants de la province. Organise les baptêmes",
-			"menu": null,
+			"menu": [],
 			"promotion": null,
 			"facebookLink": "https://www.facebook.com/Namuroise-de-Namur-1038138899538810/",
 			"address": null,
