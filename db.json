@@ -234,7 +234,7 @@
 		},
 		{
 			"id": 5,
-			"name": "Le Monde à l'enver",
+			"name": "Le Monde à l'envers",
 			"type": "Bar/Café",
 			"description": "Déco retournée",
 			"menu": [
@@ -326,7 +326,7 @@
 		},
 		{
 			"id": 5,
-			"name": "Le Monde à l'enver",
+			"name": "Le Monde à l'envers",
 			"type": "Bar/Café"
 		},
 		{
