@@ -305,5 +305,37 @@
 	],
 	"event": [
 
+	],
+	"organizersName": [
+		{
+			"id": 1,
+			"name": "Petit Bitu",
+			"type": "Bar/Café"
+		},
+		{
+			"id": 2,
+			"name": "Cercle info",
+			"type": "Cercle étudiant"
+		},
+		{
+			"id": 3,
+			"name": "Cercle chigé²phy",
+			"type": "Cercle étudiant"
+		},
+		{
+			"id": 4,
+			"name": "Le Laboratoire",
+			"type": "Bar/Café"
+		},
+		{
+			"id": 5,
+			"name": "Le Monde à l'enver",
+			"type": "Bar/Café"
+		},
+		{
+			"id": 6,
+			"name": "Régionale Namuroise",
+			"type": "Régionale"
+		}
 	]
 }
