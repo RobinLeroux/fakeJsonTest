@@ -305,34 +305,43 @@
 	],
 	"organizersName": [
 		{
-			"id": 1,
-			"name": "Petit Bitu",
-			"type": "Bar/Café"
+			"type": "Bar/Café",
+			"organizers": [
+				{
+					"id": 1,
+					"name": "Petit Bitu"
+				},
+				{
+					"id": 4,
+					"name": "Le Laboratoire"
+				},
+				{
+					"id": 5,
+					"name": "Le Monde à l'envers"
+				}
+			]
+		}
+		{
+			"type": "Cercle étudiant",
+			"organizers": [
+				{
+					"id": 2,
+					"name": "Cercle info"
+				},
+				{
+					"id": 3,
+					"name": "Cercle chigé²phy"
+				}
+			]
 		},
 		{
-			"id": 2,
-			"name": "Cercle info",
-			"type": "Cercle étudiant"
-		},
-		{
-			"id": 3,
-			"name": "Cercle chigé²phy",
-			"type": "Cercle étudiant"
-		},
-		{
-			"id": 4,
-			"name": "Le Laboratoire",
-			"type": "Bar/Café"
-		},
-		{
-			"id": 5,
-			"name": "Le Monde à l'envers",
-			"type": "Bar/Café"
-		},
-		{
-			"id": 6,
-			"name": "Régionale Namuroise",
-			"type": "Régionale"
+			"type": "Régionale",
+			"organizers": [
+				{
+					"id": 6,
+					"name": "Régionale Namuroise"
+				}
+			]
 		}
 	]
 }
