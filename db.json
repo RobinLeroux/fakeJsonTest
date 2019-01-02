@@ -1,347 +1,64 @@
 {
-	"organizer": [
-		{
-			"id": 1,
-			"name": "Petit Bitu",
-			"type": "Bar/Café",
-			"description": "Ambiance sympathique, fortement fréquenté par des étudiants",
-			"menu": [
-				{
-					"name": "Bières",
-					"drinks": [
-						{
-							"name": "Diekirch 25cl",
-							"price": 2.0
-						},
-						{
-							"name": "Diekirch 33cl",
-							"price": 2.5
-						},
-						{
-							"name": "Diekirch 50cl",
-							"price": 3.8
-						}
-					]
-				},
-				{
-					"name": "Bières spéciales",
-					"drinks": [
-						{
-							"name": "Cuvées des Trolls",
-							"price": 3.0
-						},
-						{
-							"name": "Gauloise rouge",
-							"price": 3.5
-						},
-						{
-							"name": "Rochefort 8",
-							"price": 4.0
-						}
-					]
-				},
-				{
-					"name": "Alcools",
-					"drinks": [
-						{
-							"name": "Tequila",
-							"price": 2.0
-						},
-						{
-							"name": "Ricard",
-							"price": 2.5
-						}
-					]
-				}
-			],
-			"promotion": "Happy Hour de 20 à 22h",
-			"facebookLink": "https://www.facebook.com/Petit-Bitu-510573185750921/",
-			"address": "Rue de Bruxelles 51, Namur",
-			"phoneNumber": "0476 83 54 65"
-		},
-		{
-			"id": 2,
-			"name": "Cercle info",
-			"type": "Cercle étudiant",
-			"description": "Bar situé sous la fac info, géré par ses étudiants",
-			"menu": [
-				{
-					"name": "Bières",
-					"drinks": [
-						{
-							"name": "Jupiler 25cl",
-							"price": 1.0
-						},
-						{
-							"name": "Jupiler 50cl",
-							"price": 2.0
-						},
-						{
-							"name": "Jupiler mètre (12 bières)",
-							"price": 10.0
-						}
-					]
-				},
-				{
-					"name": "Bières spéciales",
-					"drinks": [
-						{
-							"name": "Cuvées des Trolls",
-							"price": 1.5
-						},
-						{
-							"name": "Gauloise rouge",
-							"price": 1.8
-						},
-						{
-							"name": "Rochefort 8",
-							"price": 2.0
-						}
-					]
-				},
-				{
-					"name": "Nourriture",
-					"drinks": [
-						{
-							"name": "Chips",
-							"price": 1.0
-						},
-						{
-							"name": "Pizza",
-							"price": 2.0
-						}
-					]
-				}
-			],
-			"promotion": "Mètre de bières : 12 bières pour 10€",
-			"facebookLink": "https://www.facebook.com/cercleinfo/",
-			"address": "Rue Grandgagnage 21, Namur",
-			"phoneNumber": "081 72 55 89"
-		},
-		{
-			"id": 3,
-			"name": "Cercle chigé²phy",
-			"type": "Cercle étudiant",
-			"description": "Bar des étudiants des facs de Chimie, Géologie, Géographie et Physique",
-			"menu": [
-				{
-					"name": "Bières",
-					"drinks": [
-						{
-							"name": "Jupiler 25cl",
-							"price": 1.0
-						},
-						{
-							"name": "Jupiler 50cl",
-							"price": 2.0
-						},
-						{
-							"name": "Jupiler mètre (12 bières)",
-							"price": 10.0
-						}
-					]
-				},
-				{
-					"name": "Bières spéciales",
-					"drinks": [
-						{
-							"name": "Cuvées des Trolls",
-							"price": 1.5
-						},
-						{
-							"name": "Gauloise rouge",
-							"price": 1.8
-						},
-						{
-							"name": "Rochefort 8",
-							"price": 2.0
-						}
-					]
-				},
-				{
-					"name": "Nourriture",
-					"drinks": [
-						{
-							"name": "Chips",
-							"price": 1.0
-						}
-					]
-				}
-			],
-			"promotion": "Mètre de bières : 12 bières pour 10€",
-			"facebookLink": "https://www.facebook.com/Cercle-Chig%C3%A9%C2%B2phy-1657533587802476/",
-			"address": "Dans le quadri",
-			"phoneNumber": null
-		},
-		{
-			"id": 4,
-			"name": "Le Laboratoire",
-			"type": "Bar/Café",
-			"description": "Déco aux ambiances de laboratoire",
-			"menu": [
-				{
-					"name": "Bières",
-					"drinks": [
-						{
-							"name": "Diekirch 25cl",
-							"price": 2.0
-						},
-						{
-							"name": "Diekirch 33cl",
-							"price": 2.5
-						},
-						{
-							"name": "Diekirch 50cl",
-							"price": 3.8
-						}
-					]
-				},
-				{
-					"name": "Bières spéciales",
-					"drinks": [
-						{
-							"name": "Cuvées des Trolls",
-							"price": 3.0
-						},
-						{
-							"name": "Gauloise rouge",
-							"price": 3.5
-						},
-						{
-							"name": "Rochefort 8",
-							"price": 4.0
-						}
-					]
-				},
-				{
-					"name": "Alcools",
-					"drinks": [
-						{
-							"name": "Tequila",
-							"price": 2.0
-						},
-						{
-							"name": "Chartreuse",
-							"price": 2.0
-						}
-					]
-				}
-			],
-			"promotion": "Mètre de Chartreuse",
-			"facebookLink": "https://www.facebook.com/Le-Laboratoire-802978413107702/",
-			"address": "Rue de Bruxelles 62, Namur",
-			"phoneNumber": null
-		},
-		{
-			"id": 5,
-			"name": "Le Monde à l'envers",
-			"type": "Bar/Café",
-			"description": "Déco retournée",
-			"menu": [
-				{
-					"name": "Bières",
-					"drinks": [
-						{
-							"name": "Diekirch 25cl",
-							"price": 2.0
-						},
-						{
-							"name": "Diekirch 33cl",
-							"price": 2.5
-						},
-						{
-							"name": "Diekirch 50cl",
-							"price": 3.8
-						}
-					]
-				},
-				{
-					"name": "Bières spéciales",
-					"drinks": [
-						{
-							"name": "Cuvées des Trolls",
-							"price": 3.0
-						},
-						{
-							"name": "Gauloise rouge",
-							"price": 3.5
-						},
-						{
-							"name": "Rochefort 8",
-							"price": 4.0
-						}
-					]
-				},
-				{
-					"name": "Alcools",
-					"drinks": [
-						{
-							"name": "Tequila",
-							"price": 2.0
-						},
-						{
-							"name": "Chartreuse",
-							"price": 2.0
-						}
-					]
-				}
-			],
-			"promotion": "Mètre de bières 18€",
-			"facebookLink": "https://www.facebook.com/mondealenvers/",
-			"address": "Rue Lelièvre 26, Namur",
-			"phoneNumber": "081 22 39 22"
-		},
-		{
-			"id": 6,
-			"name": "Régionale Namuroise",
-			"type": "Régionale",
-			"description": "Régionale qui regroupe les étudiants de la province. Organise les baptêmes",
-			"menu": [],
-			"promotion": null,
-			"facebookLink": "https://www.facebook.com/Namuroise-de-Namur-1038138899538810/",
-			"address": null,
-			"phoneNumber": null
-		}
-	],
-	"organizersName": [
-		{
-			"type": "Bar/Café",
-			"organizers": [
-				{
-					"id": 1,
-					"name": "Petit Bitu"
-				},
-				{
-					"id": 4,
-					"name": "Le Laboratoire"
-				},
-				{
-					"id": 5,
-					"name": "Le Monde à l'envers"
-				}
-			]
-		},
-		{
-			"type": "Cercle étudiant",
-			"organizers": [
-				{
-					"id": 2,
-					"name": "Cercle info"
-				},
-				{
-					"id": 3,
-					"name": "Cercle chigé²phy"
-				}
-			]
-		},
-		{
-			"type": "Régionale",
-			"organizers": [
-				{
-					"id": 6,
-					"name": "Régionale Namuroise"
-				}
-			]
-		}
-	]
+      data = [
+        {
+          id: 1,
+          category: {
+            id: 1,
+            name: "Mobilité"
+          },
+          author: {
+            id: 1,
+            name: "John Doe"
+          },
+          content: "Il faudrait plus de parkings à Namur",
+          nbVoters: 256,
+          pertinence: 68,
+          approval: 80
+        },
+        {
+          id: 2,
+          category: {
+            id: 3,
+            name: "Sécurité"
+          },
+          author: {
+            id: 1,
+            name: "Michel"
+          },
+          content: "Il faudrait augmenter les patrouilles de police derrière la gare",
+          nbVoters: 67,
+          pertinence: 82,
+          approval: 78
+        },
+        {
+          id: 1,
+          category: {
+            id: 1,
+            name: "Mobilité"
+          },
+          author: {
+            id: 1,
+            name: "John Doe"
+          },
+          content: "Il faudrait plus de parkings à Namur",
+          nbVoters: 256,
+          pertinence: 68,
+          approval: 80
+        },
+        {
+          id: 2,
+          category: {
+            id: 3,
+            name: "Sécurité"
+          },
+          author: {
+            id: 1,
+            name: "Michel"
+          },
+          content: "Il faudrait augmenter les patrouilles de police derrière la gare",
+          nbVoters: 67,
+          pertinence: 82,
+          approval: 78
+        }
+      ]
 }
