@@ -1,64 +1,64 @@
 {
-      data: [
+      "data": [
         {
-          id: 1,
-          category: {
-            id: 1,
-            name: "Mobilité"
+          "id": 1,
+          "category": {
+            "id": 1,
+            "name": "Mobilité"
           },
-          author: {
-            id: 1,
-            name: "John Doe"
+          "author": {
+            "id": 1,
+            "name": "John Doe"
           },
-          content: "Il faudrait plus de parkings à Namur",
-          nbVoters: 256,
-          pertinence: 68,
-          approval: 80
+          "content": "Il faudrait plus de parkings à Namur",
+          "nbVoters": 256,
+          "pertinence": 68,
+          "approval": 80
         },
         {
-          id: 2,
-          category: {
-            id: 3,
-            name: "Sécurité"
+          "id": 2,
+          "category": {
+            "id": 3,
+            "name": "Sécurité"
           },
-          author: {
-            id: 1,
-            name: "Michel"
+          "author": {
+            "id": 1,
+            "name": "Michel"
           },
-          content: "Il faudrait augmenter les patrouilles de police derrière la gare",
-          nbVoters: 67,
-          pertinence: 82,
-          approval: 78
+          "content": "Il faudrait augmenter les patrouilles de police derrière la gare",
+          "nbVoters": 67,
+          "pertinence": 82,
+          "approval": 78
         },
         {
-          id: 1,
-          category: {
-            id: 1,
-            name: "Mobilité"
+          "id": 1,
+          "category": {
+            "id": 1,
+            "name": "Mobilité"
           },
-          author: {
-            id: 1,
-            name: "John Doe"
+          "author": {
+            "id": 1,
+            "name": "John Doe"
           },
-          content: "Il faudrait plus de parkings à Namur",
-          nbVoters: 256,
-          pertinence: 68,
-          approval: 80
+          "content": "Il faudrait plus de parkings à Namur",
+          "nbVoters": 256,
+          "pertinence": 68,
+          "approval": 80
         },
         {
-          id: 2,
-          category: {
-            id: 3,
-            name: "Sécurité"
+          "id": 2,
+          "category": {
+            "id": 3,
+            "name": "Sécurité"
           },
-          author: {
-            id: 1,
-            name: "Michel"
+          "author": {
+            "id": 1,
+            "name": "Michel"
           },
-          content: "Il faudrait augmenter les patrouilles de police derrière la gare",
-          nbVoters: 67,
-          pertinence: 82,
-          approval: 78
+          "content": "Il faudrait augmenter les patrouilles de police derrière la gare",
+          "nbVoters": 67,
+          "pertinence": 82,
+          "approval": 78
         }
       ]
 }
